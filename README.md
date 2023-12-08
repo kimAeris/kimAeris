@@ -1,4 +1,4 @@
- ### Hi there 👋
+ ### 👩‍💻 Front-End Web Developer 
 [2023/12/8 - NodeJS란 / Parcel 사용해보기 / 유의적 버전이란](https://ohzlsss.tistory.com/65) <br>
 [2023/12/7 - [CSS] 미디어 쿼리(Media Query)](https://ohzlsss.tistory.com/64) <br>
 [2023/12/6 - [Vue 3] Vue Composition API](https://ohzlsss.tistory.com/63) <br>
