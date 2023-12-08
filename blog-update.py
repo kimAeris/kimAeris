@@ -1,4 +1,4 @@
-rimport feedparser, time
+import feedparser, time
 
 URL = "https://ohzlsss.tistory.com/rss"
 RSS_FEED = feedparser.parse(URL)
