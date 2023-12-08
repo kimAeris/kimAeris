@@ -1,23 +1,7 @@
-### Hi there 👋
-
-## 🛠 Tech Stack
-[![Javascript Badge](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=black)](https://ko.wikipedia.org/wiki/Javascript/) 
-[![HTML5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)](https://ko.wikipedia.org/wiki/HTML5) 
-[![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)](https://ko.wikipedia.org/wiki/CSS)
-
-<!--
-**kimAeris/kimAeris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-Here are some ideas to get you started:
-https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ ### Hi there 👋
+[2023/12/8 - NodeJS란 / Parcel 사용해보기 / 유의적 버전이란](https://ohzlsss.tistory.com/65) <br>
+[2023/12/7 - [CSS] 미디어 쿼리(Media Query)](https://ohzlsss.tistory.com/64) <br>
+[2023/12/6 - [Vue 3] Vue Composition API](https://ohzlsss.tistory.com/63) <br>
+[2023/12/6 - 예제) 애플 아이패드 반응형 웹사이트 - Figure](https://ohzlsss.tistory.com/62) <br>
+[2023/12/5 - [JavaScript/Vue] 구조 분해 문법(Destructuring)](https://ohzlsss.tistory.com/61) <br>
+[2023/12/5 - 예제) 애플 아이패드 반응형 웹사이트 - Sprite Image & animation](https://ohzlsss.tistory.com/60) <br>
