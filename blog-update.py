@@ -15,7 +15,7 @@ for idx, feed in enumerate(rss_feed['entries']):
     feed_date = feed['published_parsed']
     latest_blog_post_list += f"[{feed_date.tm_year}/{feed_date.tm_mon}/{feed_date.tm_mday} - {feed['title']}]({feed['link']}) <br>\n"
     
-markdown_text = """ ### Hi there 👋
+markdown_text = """ ### 👩‍💻 Front-End Web Developer 
 """
 
 readme_text = f"{markdown_text}{latest_blog_post_list}"
