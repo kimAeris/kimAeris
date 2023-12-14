@@ -7,8 +7,6 @@ MAX_POST_NUM = 5
 
 latest_blog_post_list = ""
 
-MAX_POST_NUM = 5
-
 for idx, feed in enumerate(rss_feed['entries']):
     if idx > MAX_POST_NUM:
         break
