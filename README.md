@@ -6,12 +6,12 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimAeris&layout=compact&theme=buefy)
 
 ### Recent blog posts
+[2024/1/4 - [JavaScript] 표준 내장 객체 - 배열](https://ohzlsss.tistory.com/74) <br>
 [2024/1/2 - [JavaScript] 표준 내장 객체 - 숫자, 수학](https://ohzlsss.tistory.com/73) <br>
 [2023/12/20 - [JavaScript] 표준 내장 객체 - 문자](https://ohzlsss.tistory.com/72) <br>
 [2023/12/15 - [Vue 3] Global API](https://ohzlsss.tistory.com/71) <br>
 [2023/12/14 - [Vue 3] 반응성( Reactivity )](https://ohzlsss.tistory.com/70) <br>
 [2023/12/13 - [JavaScript] 클래스](https://ohzlsss.tistory.com/69) <br>
-[2023/12/13 - [JavaScript] 함수](https://ohzlsss.tistory.com/68) <br>
  
 ---
 <a href="https://ohzlsss.tistory.com"><img src="https://img.shields.io/badge/Tech%20Blog-20C997?style=flat-square&logo=storyblok&logoColor=white"/></a> <a href="https://ohzlsss.tistory.com"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>  
