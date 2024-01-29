@@ -6,12 +6,12 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimAeris&layout=compact&theme=buefy)
 
 ### Recent blog posts
+[2024/1/28 - React Native란, Expo 개발 세팅/앱 구조/실행](https://ohzlsss.tistory.com/76) <br>
 [2024/1/23 - Axios를 이용하여 Excel Download 하는법 + blob (content-disposition 접근 오류 해결)](https://ohzlsss.tistory.com/75) <br>
 [2024/1/4 - [JavaScript] 표준 내장 객체 - 배열](https://ohzlsss.tistory.com/74) <br>
 [2024/1/2 - [JavaScript] 표준 내장 객체 - 숫자, 수학](https://ohzlsss.tistory.com/73) <br>
 [2023/12/20 - [JavaScript] 표준 내장 객체 - 문자](https://ohzlsss.tistory.com/72) <br>
 [2023/12/15 - [Vue 3] Global API](https://ohzlsss.tistory.com/71) <br>
-[2023/12/14 - [Vue 3] 반응성( Reactivity )](https://ohzlsss.tistory.com/70) <br>
  
 ---
 <a href="https://ohzlsss.tistory.com"><img src="https://img.shields.io/badge/Tech%20Blog-20C997?style=flat-square&logo=storyblok&logoColor=white"/></a> <a href="https://ohzlsss.tistory.com"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>  
