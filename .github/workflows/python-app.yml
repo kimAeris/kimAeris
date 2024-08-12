@@ -33,10 +33,10 @@ jobs:
         python blog-update.py
     - name: Update README.md file
       run: | 
-        git pull
+        git pull --rebase || echo "Git pull failed or no changes"
         git add .
-        git diff
+        git status
         git config --local user.email "kar2125@naver.com"
         git config --local user.name "kimAeris"
-        git commit -m "Updating Blog Posts"
-        git push
+        git commit -m "Updating Blog Posts" || echo "No changes to commit"
+        git push || echo "Git push failed"
