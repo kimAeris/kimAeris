@@ -6,12 +6,12 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimAeris&layout=compact&theme=buefy)
 
 ### Recent blog posts
-[2024/1/30 - [React Native] Expo , UI 작성하기/스타일링](https://ohzlsss.tistory.com/77) <br>
-[2024/1/28 - [React Native] 개념, Expo 개발 환경 세팅/앱 구조/실행하기](https://ohzlsss.tistory.com/76) <br>
-[2024/1/23 - Axios를 이용하여 Excel Download 하는법 + blob (content-disposition 접근 오류 해결)](https://ohzlsss.tistory.com/75) <br>
-[2024/1/4 - [JavaScript] 표준 내장 객체 - 배열](https://ohzlsss.tistory.com/74) <br>
-[2024/1/2 - [JavaScript] 표준 내장 객체 - 숫자, 수학](https://ohzlsss.tistory.com/73) <br>
-[2023/12/20 - [JavaScript] 표준 내장 객체 - 문자](https://ohzlsss.tistory.com/72) <br>
+[2024/8/11 - [TypeScript] 인터페이스](https://ohzlsss.tistory.com/88) <br>
+[2024/8/7 - [TypeScript] 타입 추론, 타입 및 할당 단언, 타입 가드](https://ohzlsss.tistory.com/87) <br>
+[2024/8/6 - [TypeScript] 타입스크립트, 타입 종류 (tsconfig.json)](https://ohzlsss.tistory.com/86) <br>
+[2024/8/5 - 정규표현식 (Regex, Regular Expression)](https://ohzlsss.tistory.com/85) <br>
+[2024/7/1 - [HTTP] Cookie 와 Session](https://ohzlsss.tistory.com/84) <br>
+[2024/7/1 - [JavaScript] Web APIs - Location, History](https://ohzlsss.tistory.com/83) <br>
  
 ---
 <a href="https://ohzlsss.tistory.com"><img src="https://img.shields.io/badge/Tech%20Blog-20C997?style=flat-square&logo=storyblok&logoColor=white"/></a> <a href="https://ohzlsss.tistory.com"><img src="https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a>  
