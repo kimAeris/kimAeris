@@ -20,7 +20,7 @@ markdown_text = """ ## 👩‍💻 Front-End Web Developer
 ### 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimAeris&layout=compact&theme=buefy)
 
-### Blog posts
+### Recent blog posts
 """
 
 markdown_text_footer = """ 
